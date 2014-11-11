@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 void main(){
-  printf("HellowWorld!!\n");
+  printf("HellowWorld!!\コンニチハ\n");
   exit(0);
 }
